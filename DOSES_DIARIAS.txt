@@ -1,0 +1,17 @@
+ID | Quantidade_Dose | Descricao
+01 | 01 | Contido
+02 | 02 | Normal
+03 | 03 | Avançado
+04 | 04 ou mais | Neorótico
+05 | 01 | Saudável
+06 | 02 | Naturalista
+07 | 03 | Ultrassaudável
+08 | 04 ou mais | Vegano
+09 | 01 | Moderado
+10 | 02 | Estudioso
+11 | Entre 03 e 10 | Enólogo
+12 | Acima de 10 | Esbanjador
+13 | 03 | De boa
+14 | De 04 a 07 | Rude
+15 | De 08 a 20 | Ogro
+16 | A partir de 21 | Pinguço
